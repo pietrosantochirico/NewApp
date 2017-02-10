@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notizie</string>
+    <string name="titolo">Titolo</string>
+    <string name="sottotitolo">Sottotitolo</string>
+    <string name="date">08/02/2017</string>
+    <string name="articolo">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus feugiat dui ut ullamcorper. Vestibulum congue ultricies metus sed tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus at venenatis nibh. Fusce ultricies orci et euismod aliquet. Vivamus lacinia augue ac augue vehicula egestas. Duis elementum fringilla neque a feugiat. Donec ac dolor in nulla tincidunt scelerisque. Sed elementum dolor viverra sapien pulvinar venenatis. Nam feugiat ultricies mi, vitae mattis eros suscipit ut. Fusce sed finibus odio, ac rhoncus dolor. In id odio dapibus, tincidunt diam eu, efficitur massa. Etiam iaculis aliquam venenatis. Morbi.</string>
+    <string name="button_leggi">leggi</string>
+    <string name="text_user">Inserisci Username</string>
+    <string name="password">Inserisci Password</string>
+    <string name="login">LOGIN</string>
+
+</resources>
